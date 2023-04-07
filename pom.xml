@@ -70,6 +70,14 @@
             <groupId>org.springframework</groupId>
             <artifactId>spring-webmvc</artifactId>
         </dependency>
+        <!--Graphql dependency-->
+        <!-- https://mvnrepository.com/artifact/com.graphql-java/graphql-java -->
+        <dependency>
+            <groupId>com.graphql-java</groupId>
+            <artifactId>graphql-java</artifactId>
+            <version>230521-nf-execution</version>
+        </dependency>
+
     </dependencies>
 
     <build>
